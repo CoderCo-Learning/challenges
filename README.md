@@ -8,4 +8,3 @@ This repository contains the challenges for CoderCo Community.
 
 You're the new DevOps hire at a startup. They've given you a fresh Linux VM and asked you to build a production-ready Linux service setup for their Python app. But there’s no infra — you have to do it all.
 
-## Challenge 2
