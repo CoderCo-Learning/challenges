@@ -10,7 +10,7 @@ You must create a setup.sh (or Makefile) that does all of the following:
 
 ## 1. User & Permissions
 
-- Create a user called appuser (non-root)
+- Create a user called appuser (non-root) [Creating a User on the Linux module](https://www.skool.com/coderco/classroom/ec5f8606?md=5bef9bc142884deea36ad361bddf8850)
 - Create a directory /opt/coderco-app
 - Place a server.py file in it (can be a simple http.server)
 - Give appuser full access to /opt/coderco-app only
