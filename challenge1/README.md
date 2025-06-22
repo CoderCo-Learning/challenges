@@ -46,7 +46,7 @@ Write a single setup.sh or Makefile that:
 - Starts and enables the service
 - Verifies the service is up
 
-## Bonus (Not Scored, But 🔥 for Learning)
+## Bonus (Not Scored, but if you want to go above and beyond!)
 
 - Add a firewall rule to allow only local access to the port (e.g. ufw or iptables)
 - Add a simple healthcheck script and a cronjob for it
