@@ -1,6 +1,6 @@
 # CoderCo Challenges
 
-This repository contains the challenges for CoderCo Community.
+This repository contains the challenges for [CoderCo Community](https://www.skool.com/coderco/about?ref=d41d6abc9a4948529e818ca2cebd2bea)
 
 ## [Challenge 1](./challenge1/README.md)
 
