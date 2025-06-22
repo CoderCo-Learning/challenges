@@ -16,11 +16,6 @@ This repository contains the challenges for [CoderCo Community](https://www.skoo
 - Don’t copy/paste random code. Be ready to explain what you did.
 - A loom video to explain everything as a BONUS.
 
-### 🏆 Prizes:
-
-- 🥇 £30 Amazon Voucher
-- 🥈 £20 Amazon Voucher
-- 🥉 £10 Amazon Voucher
 
 ## [Challenge 1](./challenge1/README.md)
 
