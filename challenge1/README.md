@@ -13,10 +13,12 @@ You must create a setup.sh (or Makefile) that does all of the following:
 - Create a user called appuser (non-root) [Creating a User on the Linux module](https://www.skool.com/coderco/classroom/ec5f8606?md=5bef9bc142884deea36ad361bddf8850)
 - Create a directory /opt/coderco-app [Creating directories](https://www.skool.com/coderco/classroom/ec5f8606?md=ffeb37709c8d479c9e1da3759b54a27c)
 - Place a server.py file in it (can be a simple http.server)
-- Give appuser full access to /opt/coderco-app only
+- Give appuser full access to /opt/coderco-app only - [Setting Permissions](https://www.skool.com/coderco/classroom/ec5f8606?md=df65ef6a3d48437cae6747019d77d8dd)
 - Make sure no other user (except root) can read/write to it
 
 ## 2. Systemd Service
+
+For some help: [Creating a Linux service with systemd](https://medium.com/@benmorel/creating-a-linux-service-with-systemd-611b5c8b91d6)
 
 Create a coderco-app.service under /etc/systemd/system
 
