@@ -6,7 +6,7 @@ You’ve been given a mystery Linux server that was set up by a junior engineer 
 
 Your job: Diagnose it, fix it, secure it and document everything.
 
-This is not just about running commands—it’s about research, problem-solving and showing your problem-solving and troubleshooting skills in Linux. 
+This is not just about running commands—it’s about research, problem-solving and showing your problem-solving and troubleshooting skills in Linux.
 
 ## Objective
 
@@ -27,6 +27,8 @@ Download the setup script and run it:
 ```bash
 curl -sSL https://raw.githubusercontent.com/CoderCo-Learning/challenges/main/challenge2/setup.sh | sudo bash
 ```
+
+**Please please don't peek at the setup script until you have attempted the challenge 🙏🏽**
 
 You can run this inside:
 
