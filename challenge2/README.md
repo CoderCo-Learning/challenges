@@ -80,8 +80,8 @@ This script intentionally breaks the system. You must fix it.
 
 🚫 Rules
 
-- ❌ No ChatGPT / AI tools allowed. Only as a last resort when you're stuck. 
-- ✅ You can and should Google, read man pages, official docs
+- ❌ No ChatGPT / AI tools allowed. Only as a last resort when you're stuck.
+- ✅ You can and should Google, read man pages, official docs. Please please i don't wanna see AI everywhere and especially the comments. If you use it, make sure to justify and show you understand what you did. 
 - 📷 Screenshots/logs in the repo to show your workings. 
 - 🔍 Your steps should be reproducible and explain your thinking
 
@@ -91,7 +91,7 @@ Submit a public GitHub repo with:
 
 1. README.md
 
-- Step-by-step guide of how you debugged & fixed things
+- Step-by-step guide of how you debugged & fixed things. Screenshots would be nice tbh. 
 - What tools/logs/commands you used
 - What you learned
 - Screenshots of working result (curl, systemctl status, etc.)
@@ -99,12 +99,6 @@ Submit a public GitHub repo with:
 2. Fixed files:
 
 Any config files you had to create or fix (nginx.conf, systemd unit files, etc.)
-
-3. Reflection (markdown file or in README):
-
-- What was the most challenging part?
-- What did you learn from first principles (not just copy-paste)?
-- What would you do differently next time?
 
 ## Tips
 
