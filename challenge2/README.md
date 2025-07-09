@@ -115,56 +115,18 @@ Any config files you had to create or fix (nginx.conf, systemd unit files, etc.)
 
 Here are some helpful, **non-AI resources** you should use during the challenge. Don’t rely on ChatGPT or AI — treat this like real-world troubleshooting.
 
-### 🔧 Systemd & Services
 
 - [Systemd basics – DigitalOcean](https://www.digitalocean.com/community/tutorials/understanding-systemd-units-and-unit-files)
 - [Systemd Unit Files – Arch Wiki](https://wiki.archlinux.org/title/systemd#Unit_files)
-- [journalctl usage – RedHat](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/system_administrators_guide/sec-viewing_logs_with_journalctl)
-
----
-
-### 🌐 NGINX
-
 - [NGINX Beginner’s Guide (official)](https://nginx.org/en/docs/beginners_guide.html)
-- [How To Configure NGINX using systemd – DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-server-blocks-virtual-hosts-on-ubuntu-22-04)
 - [Debugging NGINX with `nginx -t` and logs](https://nginx.org/en/docs/syntax.html)
-
----
-
-### 🔐 SSH Hardening
-
-- [OpenSSH Server Configuration Guide](https://linuxhint.com/openssh_server_configuration_ubuntu/)
+- [LinuxHint - really good blog to learn hands-on Linux ](https://linuxhint.com/)
 - [How To Harden SSH on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-harden-openssh-on-ubuntu-20-04)
 - [Using SSH Key Auth – Ubuntu Wiki](https://help.ubuntu.com/community/SSH/OpenSSH/Keys)
-
----
-
-### 👷 User Permissions & Sudo
-
-- [Add User to Sudoers – Ubuntu](https://phoenixnap.com/kb/how-to-add-user-to-sudo-group-ubuntu)
 - [Understanding User Groups – Linuxize](https://linuxize.com/post/how-to-add-user-to-group-in-linux/)
 - [visudo safe editing – Ubuntu Manpage](https://manpages.ubuntu.com/manpages/focal/man8/visudo.8.html)
-
----
-
-### ⏰ Cron Jobs & Logrotate
-
 - [How To Use Cron – Ubuntu Docs](https://help.ubuntu.com/community/CronHowto)
-- [Cron Jobs in `/etc/cron.d/` – ServerFault](https://serverfault.com/questions/346924/what-is-the-difference-between-crontab-e-and-etc-cron-d)
-- [Logrotate Configuration Guide](https://www.thegeekdiary.com/understanding-logrotate-configuration-file/)
-- [How To Use logrotate – Linuxize](https://linuxize.com/post/logrotate-command-in-linux/)
-
----
-
-### 🛡️ UFW & Fail2Ban
-
 - [UFW Essentials – Ubuntu Docs](https://help.ubuntu.com/community/UFW)
 - [Common UFW Rules – DigitalOcean](https://www.digitalocean.com/community/tutorials/ufw-essentials-common-firewall-rules-and-commands)
 - [Fail2Ban Basics – DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-protect-ssh-with-fail2ban-on-ubuntu-20-04)
-
----
-
-### 🕵️ Debugging Tools
-
 - [Troubleshooting systemd services](https://www.freedesktop.org/software/systemd/man/systemd-analyze.html)
-- [Basic Linux Debugging Commands](https://opensource.com/article/18/10/troubleshooting-linux)
